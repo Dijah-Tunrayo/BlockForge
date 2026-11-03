@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Additions
+.env
+.venv/
+data/raw/
+*.pt
+*.ckpt
+*.safetensors
+models/
+.ipynb_checkpoints/
+node_modules/
+.DS_Store
